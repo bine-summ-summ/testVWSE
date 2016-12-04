@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Implementation-Title: Orego with a GrdelWrapper
+Implementation-Version: alpha
+Main-Class: com.bine.Main
+
