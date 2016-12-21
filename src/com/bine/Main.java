@@ -49,7 +49,7 @@ public class Main {
         }
     }
     public static String sagCiao(){
-        String ciao="Hey";
+        String ciao="Ciao";
         return ciao;
     }
 }
